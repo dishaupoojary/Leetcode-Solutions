@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1873-calculate-special-bonus) |
