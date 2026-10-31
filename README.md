@@ -8,4 +8,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/1873-calculate-special-bonus) |
+## Array
+|  |
+| ------- |
+| [2798-number-of-employees-who-met-the-target](https://github.com/dishaupoojary/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
